@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  line-height: 1.5;
+}
+
+#overlay {
+  display: none;
+}
+
+#wrapper {
+  display: block;
+  margin-top: 6%;
+  width: 50%;
+}
+
+.back {
+  background-color: rgb(14, 18, 22);
+  position: absolute;
+  z-index: -1;
+  width: 200%;
+  height: 200%;
+}
+
+.logo {
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  z-index: 9999;
+  background: url(https://cdn.discordapp.com/attachments/440488580247191552/584800251089649884/png.png) no-repeat;
+  background-size: 100%;
+  background-position: center;
+  margin-top: -50.5%;
+  margin-left: 1%
+}
+
+.servername {
+  font-family: 'Roboto', sans-serif;
+  font-size: 43px;
+  color: white;
+  position: absolute;
+  margin-left: 33%;
+  margin-top: -40.5%;
+  font-weight: 400px;
+}
+
+form {
+  width: 30%;
+  margin: 0;
+  padding: 2%;
+  padding-top: 20%;
+  padding-bottom: 40%;
+  margin-top: -10%;
+  margin-left: 35%;
+  position: absolute;
+  top: 250px;
+}
+
+.skapa {
+  font-family: 'Roboto', sans-serif;
+  font-size: 23px;
+  color: rgba(255, 255, 255, 0.692);
+  position: absolute;
+  top: 340px;
+}
+
+.input-field input, .select-wrapper input {
+  color: #ffffff !important;
+}
+
+#register {
+  width: 60%;
+  background: rgb(39, 37, 46) !important;
+  border-radius: 10px;
+  margin-left: 20%;
+}
+
+#register:hover {
+  background: #26e2ff !important;
+
+}
+
+.caret {
+  display: none;
+}
+
+.dropdown-content {
+  top: 0 !important;
+}
+
+.select-wrapper li {
+  background: #333333 !important;
+}
+
+.select-wrapper li span {
+  color: #ffffff !important;
+}
+
+.select-wrapper .disabled {
+  background: #333333 !important;
+}
+
+.select-wrapper .selected {
+ background: rgba(34, 33, 38, 1) !important;
+}
+
+.datepicker-date-display {
+background: rgba(34, 33, 38, 1);
+}
+
+.datepicker-container button {
+color: #333333;
+}
+
+.datepicker-container button:focus {
+background: none;
+}
+
+.datepicker-container .is-selected {
+background: #26e2ff !important;
+color: #FFFFFF; 
+}
+
+.dropdown-content li > a, .dropdown-content li > span  {
+color: rgb(5, 5, 5) !important;
+}
+
+.datepicker-container input {
+color: rgba(34, 33, 38, 1) !important;
+}
+label {
+color: #FFFFFF !important;
+text-shadow: -1px 0 rgba(0, 0, 0, 0.2), 0 1px rgba(0, 0, 0, 0.2), 1px 0 rgba(0, 0, 0, 0.2), 0 -1px rgba(0, 0, 0, 0.2);
+font-size: 20px;
+}
+.input-field input[type=text] {
+border-bottom: 1px solid #333333 !important;
+box-shadow: 0 1px 0 0 #333333 !important;
+}
+.input-field input[type=text]:focus + label {
+color: #ffffff !important;
+}
+.input-field input[type=text]:focus {
+  border-bottom: 1px solid #26e2ff !important;
+  box-shadow: 0 1px 0 0 #26e2ff !important;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(34, 33, 38, 1);
+  color: #ffffff
+}
+@media only screen and (max-width: 1250px) {
+.container {
+  width: 100% !important;
+}
+}

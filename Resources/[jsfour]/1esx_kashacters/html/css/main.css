@@ -1,0 +1,198 @@
+html {
+    overflow: hidden;
+}
+
+p {
+    margin: 0 !important;
+}
+
+.main-container {
+    display: none;
+    width: 55vw;
+    margin: auto;
+    position: relative;
+    top: 45vh;
+    animation: buttonMover 1s;
+}
+
+@keyframes buttonMover {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to { 
+        transform: translateY(0px);
+    }
+}
+
+.character-container {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.character-box {
+    color: #FFFFFF;
+    text-align: center;
+    width: 270px;
+    height: 250px;
+    background-color: rgb(21, 28, 34);
+    border-radius: 3px;
+    cursor: pointer;
+    animation: charBox 1s;
+}
+
+@keyframes charBox {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    to { 
+        transform: translateY(0px);
+    }
+}
+
+
+.character-box:hover {
+    background: rgb(0, 221, 255);
+    
+    -webkit-box-shadow: inset 200px 200px 300px 200px rgb(255,255,255);
+    -moz-box-shadow: inset 200px 200px 300px 200px rgb(255,255,255);
+    box-shadow: inset 200px 200px 300px 200px #26e2ff81;
+}
+
+.character-box:focus {
+    background: rgb(0, 221, 255);
+    
+    -webkit-box-shadow: inset 200px 200px 300px 200px rgb(255,255,255);
+    -moz-box-shadow: inset 200px 200px 300px 200px rgb(255,255,255);
+    box-shadow: inset 200px 200px 300px 200px #26e2ff81;
+}
+
+.character-info {
+    text-align: left!important;
+    font-size: 13px;
+    text-indent: 15px;
+}
+
+.character-buttons {
+    display: none;
+    width: 70vw;
+    margin:15px auto;
+}
+
+.active-char {
+    background: rgb(0, 221, 255);
+    
+    -webkit-box-shadow: inset 200px 200px 300px 200px rgb(255,255,255);
+    -moz-box-shadow: inset 200px 200px 300px 200px rgb(255,255,255);
+    box-shadow: inset 200px 200px 300px 200px #26e2ff81;
+
+}
+
+
+
+
+.background-cast {
+    background: rgb(14, 18, 22);
+    position: absolute;
+    width: 1000rem;
+    height: 1000rem;
+
+    z-index: -1;
+
+    /* ignore this part :^) */
+    margin-top: -600px;
+    margin-left: -450px; 
+}
+
+.character-fullname {
+    font-size: 13px;
+    text-align: left;
+    text-indent: 8px;
+
+    position: relative;
+    top: 8px;
+    left: 10px;
+    padding-bottom: 10px;
+    width: 250px;
+    border-bottom: 1px solid rgba(252, 252, 252, 0.527);
+}
+
+.character-info-new {
+    font-size: 13px;
+    text-indent: 15px;
+}
+
+.server-logo {
+    margin-top: -450px;
+    margin-left: 255px;
+    opacity: 0.85;
+
+    position: absolute;
+    width: 550px;
+    height: 440px;  
+}
+
+.character-buttons {
+    animation: buttonMover 2s;
+}
+
+@keyframes buttonMover {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to { 
+        transform: translateY(10px);
+    }
+
+    to { 
+        opacity: 40;
+        transform: translateY(0px);
+    }
+}
+
+#delete {
+    position: absolute;
+    color: white;
+    width: 160px;
+    height: 45px;
+    background: rgb(255,0,0);
+    border: 1px solid rgb(255,0,0);
+    font-size: 20px;
+
+    margin-left: 533px;
+    margin-top: 50px;
+}
+
+#play-char {
+    position: absolute;
+    width: 160px;
+    color: white;
+    height: 45px;
+    font-size: 20px;
+    background: rgb(0, 255, 0);
+    border: 1px solid rgb(0, 255, 0);
+
+    margin-left: 363px;
+    margin-top: 50px;
+}
+
+#play-char:hover {
+    background: rgb(0, 255, 0);
+    color: rgb(0, 95, 0);
+}
+
+#delete:hover {
+    background: rgb(255,0,0);
+    color: rgb(134, 0, 0);
+}
+
+#deletechar:hover {
+    background: rgb(255, 0, 0);
+}

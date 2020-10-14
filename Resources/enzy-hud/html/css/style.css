@@ -1,0 +1,442 @@
+@font-face {
+    font-family: 'pricedown';
+    src: url('../fonts/pricedown.ttf');
+}
+
+@font-face {
+    font-family: 'gta-ui';
+    src: url('../fonts/gta-ui.ttf');
+}
+
+body {
+    font-family: "pricedown", Verdana, Tahoma;
+    font-size: 30px;
+    overflow: hidden;
+    height: 1080px;
+    width: 100%;
+}
+
+#heal {
+    border: 1px solid rgb(255, 255, 255);
+    background: rgba(34, 34, 40, 0.5);
+}
+
+#armor {
+    border: 1px solid rgb(255, 255, 255);
+    background: rgba(34, 34, 40, 0.5);
+    transform: rotate(180deg);
+}
+
+#hunger,
+#thirst,
+#stamina,
+#voice,
+#voice2,
+#voice3 #voiceOn,
+#voice2On,
+#voice3On,
+#stress {
+    border: 1px solid rgb(255, 255, 255);
+    background: rgba(34, 34, 40, 0.5);
+    transform: rotate(180deg);
+}
+
+#boxHeal,
+#boxArmor,
+#boxStamina,
+#boxHunger,
+#boxThirst,
+#boxVoice,
+#boxVoice2,
+#boxVoice3,
+#boxVoiceOn,
+#boxVoiceOn2,
+#boxVoiceOn3,
+#boxStress {
+    width: 100%;
+    height: 100%;
+    transition: 0.2s ease-in-out;
+}
+
+#heal {
+    position: absolute;
+    left: 1.52%;
+    top: 96.70%;
+    bottom: 1.8%;
+    width: 3.800%;
+    height: 2.2%;
+    padding: 0;
+    float: left;
+    clip-path: polygon(0 0, 100% 0%, 85% 100%, 0% 100%);
+}
+
+#armor {
+    position: absolute;
+    left: 4.990%;
+    bottom: 1.8%;
+    top: 96.70%;
+    width: 3.800%;
+    height: 2.2%;
+    padding: 0;
+    float: left;
+    clip-path: polygon(0 0, 100% 0%, 85% 100%, 0% 100%);
+}
+
+#hunger {
+    position: absolute;
+    left: 9.00%;
+    top: 96.70%;
+    bottom: 0.35%;
+    width: 1.4%;
+    height: 2.2%;
+    padding: 0;
+    float: left;
+}
+
+#thirst {
+    position: absolute;
+    left: 10.70%;
+    top: 96.70%;
+    bottom: 0.35%;
+    width: 1.4%;
+    height: 2.2%;
+    padding: 0;
+    float: left;
+}
+
+#stamina {
+    position: absolute;
+    left: 12.35%;
+    top: 96.70%;
+    bottom: 0.35%;
+    width: 1.4%;
+    height: 2.2%;
+    padding: 0;
+    float: left;
+}
+
+#voice {
+    position: absolute;
+    left: 15.6824%;
+    top: 96.65%;
+    bottom: 0.34%;
+    width: 0.21%;
+    height: 2.43%;
+    padding: 0;
+    float: left;
+    border: none;
+}
+
+#voice2 {
+    position: absolute;
+    left: 15.8524%;
+    top: 95.70%;
+    bottom: 0.34%;
+    width: 0.38%;
+    height: 0.68%;
+    padding: 0;
+    float: left;
+    border: none;
+}
+
+#voice3 {
+    position: absolute;
+    left: 15.8524%;
+    top: 98.70%;
+    bottom: 0.34%;
+    width: 0.38%;
+    height: 0.68%;
+    padding: 0;
+    float: left;
+    border: none;
+}
+
+#voiceOn {
+    position: absolute;
+    float: left;
+    background: none;
+}
+
+#stress {
+    position: absolute;
+    left: 14.00%;
+    top: 96.70%;
+    bottom: 0.35%;
+    width: 1.4%;
+    height: 2.2%;
+    padding: 0;
+    float: left;
+}
+
+#boxHeal {
+    background: #3bb175;
+}
+
+#boxArmor {
+    background: #638df4;
+}
+
+#boxHunger {
+    background: #d59560;
+}
+
+#boxThirst {
+    background: #5877ba;
+}
+
+#boxStamina {
+    background: rgb(76, 91, 117);
+}
+
+#boxVoice {
+    background: rgb(255, 255, 255);
+}
+
+#boxVoice2 {
+    background: rgb(8, 8, 8);
+}
+
+#boxVoice3 {
+    background: rgb(0, 0, 0);
+}
+
+#boxVoice.active {
+    background: rgb(255, 153, 0);
+}
+
+#boxVoice2.active {
+    background: rgb(0, 132, 255);
+}
+
+#boxVoice3.active {
+    background: rgb(162, 0, 255);
+}
+
+#boxStress {
+    background: #8a4657
+}
+
+.barIcon {
+    position: absolute;
+    left: 24%;
+    top: 21.50%;
+    bottom: 2.8%;
+    padding: 0;
+    float: left;
+    height: 14px;
+    width: 14px;
+    transform: rotate(180deg);
+}
+
+.barIcon2 {
+    position: absolute;
+    left: 5.52%;
+    top: 12%;
+    bottom: 2.8%;
+    padding: 0;
+    float: left;
+    height: 14px;
+    width: 14px;
+}
+
+.barIcon3 {
+    position: absolute;
+    left: 21.96%;
+    top: 19.50%;
+    bottom: 2.8%;
+    padding: 0;
+    float: left;
+    height: 14px;
+    width: 14px;
+    transform: rotate(180deg);
+}
+
+.barIcon4 {
+    position: absolute;
+    left: 7.00%;
+    top: 27.50%;
+    bottom: 2.8%;
+    padding: 0;
+    float: left;
+    height: 14px;
+    width: 14px;
+    transform: rotate(180deg);
+}
+
+.barIcon5 {
+    position: absolute;
+    left: 23.56%;
+    top: 16%;
+    bottom: 2.8%;
+    padding: 0;
+    float: left;
+    height: 14px;
+    width: 14px;
+    transform: rotate(180deg);
+}
+
+
+/* (1440x900) WXGA+ Display */
+
+@media screen and (max-width: 1440px) {
+    .barIcon {
+        position: absolute;
+        left: 19.58%;
+        top: 20.65%;
+        bottom: 2.8%;
+        padding: 0;
+        float: left;
+        height: 12px;
+        width: 12px;
+        transform: rotate(180deg);
+    }
+    .barIcon2 {
+        position: absolute;
+        left: 5.52%;
+        top: 12%;
+        bottom: 2.8%;
+        padding: 0;
+        float: left;
+        height: 12px;
+        width: 12px;
+    }
+    .barIcon3 {
+        position: absolute;
+        left: 19.43%;
+        top: 17.70%;
+        bottom: 2.8%;
+        padding: 0;
+        float: left;
+        height: 12px;
+        width: 12px;
+        transform: rotate(180deg);
+    }
+    .barIcon4 {
+        position: absolute;
+        left: 6.52%;
+        top: 24.85%;
+        bottom: 2.8%;
+        padding: 0;
+        float: left;
+        height: 12px;
+        width: 12px;
+        transform: rotate(180deg);
+    }
+    .barIcon5 {
+        position: absolute;
+        left: 20.26%;
+        top: 15.75%;
+        bottom: 2.8%;
+        padding: 0;
+        float: left;
+        height: 13px;
+        width: 13px;
+        transform: rotate(180deg);
+    }
+}
+
+.positive {
+    color: rgb(114, 204, 114);
+}
+
+.negative {
+    color: rgb(224, 50, 50);
+}
+
+.car {
+    display: none;
+}
+
+.speed,
+.gas,
+.measurement-val {
+    font-family: "gta-ui", Verdana, Tahoma;
+    font-size: 40px;
+    position: absolute;
+    bottom: 6.68%;
+    text-shadow: -1px 1px 2px #000, 1px 1px 2px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    color: #ffffffe1;
+    font-size: 75%;
+}
+
+.speed {
+    left: 16%;
+}
+
+.measurement-val {
+    left: 18.90%;
+}
+
+.gas {
+    left: 22.75%;
+}
+
+.fuel-val,
+.speed-val {
+    color: #ffffffe1;
+    text-shadow: -1px 1px 2px #000, 1px 1px 2px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    font-size: 105% !important;
+}
+
+.fuel-val.low,
+.speed-val.fast {
+    color: rgb(224, 50, 50);
+}
+
+.seatbelt,
+.cruise,
+.clock {
+    font-family: "gta-ui", Verdana, Tahoma;
+    font-size: 25px;
+    position: absolute;
+    bottom: 3.7%;
+    text-shadow: -1px 1px 2px #000, 1px 1px 2px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+}
+
+.clock {
+    left: 16.15%;
+}
+
+.seatbelt {
+    left: 20%;
+}
+
+.cruise {
+    left: 24%;
+}
+
+.clock {
+    color: #ffffffe1;
+}
+
+.ampm {
+    color: rgba(240, 200, 80, 0.911);
+}
+
+.seatbelt.on,
+.cruise.on {
+    color: rgb(114, 204, 114);
+}
+
+.seatbelt.off,
+.cruise.off {
+    color: rgb(224, 50, 50);
+}
+
+.position {
+    font-family: "gta-ui", Verdana, Tahoma;
+    font-size: 25px;
+    position: absolute;
+    bottom: 0.35%;
+    left: 16%;
+    text-shadow: -1px 1px 2px #000, 1px 1px 2px #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    color: #ffffffe1;
+}
+
+.seperator {
+    color: #ffffffe1;
+}
+
+.seperator2 {
+    color: #ffffffe1;
+}

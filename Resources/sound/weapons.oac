@@ -1,0 +1,8291 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder False
+	Entries
+	{
+		WaveTrack SHT_PUMP_OPEN
+		{
+			Compression PCM
+			Headroom -95
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_OPEN.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_ACTION_VER2_PRTA
+		{
+			Compression PCM
+			Headroom -106
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_ACTION_VER2_PRTA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_HANDLING_3
+		{
+			Compression PCM
+			Headroom -176
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_HANDLING_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_LAV_02.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_LAV_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_6
+		{
+			Compression PCM
+			Headroom 513
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_6.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_MID_MIC1_COLOR1_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_MID_MIC1_COLOR1_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BPW_SHARPS45_MID_COLORED_08
+		{
+			Compression PCM
+			Headroom -115
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BPW_SHARPS45_MID_COLORED_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_SLOSH_STOP_1
+		{
+			Compression PCM
+			Headroom 143
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_SLOSH_STOP_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_PUNCH_04
+		{
+			Compression PCM
+			Headroom 80
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_PUNCH_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack HGUN_MECH_OVERLAY_A_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\HGUN_MECH_OVERLAY_A_2.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x7A495DB3
+					ParameterHash 0x43B6F392
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BUBBLE_LOOP_01
+		{
+			Compression PCM
+			Headroom -169
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BUBBLE_LOOP_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_RATTLE_02_A
+		{
+			Compression PCM
+			Headroom 1065
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_RATTLE_02_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_WALK_3
+		{
+			Compression PCM
+			Headroom 1522
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_WALK_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_02
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_ASSAULT_CLIPIN_PRT1
+		{
+			Compression PCM
+			Headroom 223
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_ASSAULT_CLIPIN_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_02
+		{
+			Compression PCM
+			Headroom -173
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack POURING_FUEL_A
+		{
+			Compression PCM
+			Headroom 1461
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\POURING_FUEL_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_4.R
+		{
+			Compression PCM
+			Headroom -141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_4.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPLOOSH_5
+		{
+			Compression PCM
+			Headroom 1068
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPLOOSH_5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_END.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_END.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_15
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_DRY_FIRE_01
+		{
+			Compression PCM
+			Headroom -192
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_DRY_FIRE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B05
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FIRE_EXTING_END
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FIRE_EXTING_END.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_MED_04
+		{
+			Compression PCM
+			Headroom -88
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_MED_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLATOV_HOLSTER_REPLACE_01
+		{
+			Compression PCM
+			Headroom 350
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLATOV_HOLSTER_REPLACE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_06
+		{
+			Compression PCM
+			Headroom -181
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_00_FIRST.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_00_FIRST.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_SWTNR_B
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_SWTNR_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_01
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_B05
+		{
+			Compression PCM
+			Headroom 498
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_B05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_MID_COLOR1_03
+		{
+			Compression PCM
+			Headroom -166
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_MID_COLOR1_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_STOP_1
+		{
+			Compression PCM
+			Headroom 657
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_STOP_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_A05
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_A05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_VER2.R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_VER2.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_LAV_03
+		{
+			Compression PCM
+			Headroom 105
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_LAV_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_05_B
+		{
+			Compression PCM
+			Headroom 289
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_05_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_02_B
+		{
+			Compression PCM
+			Headroom 343
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_02_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_SLOSH_3
+		{
+			Compression PCM
+			Headroom -177
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_SLOSH_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_BELT_6
+		{
+			Compression PCM
+			Headroom 160
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_BELT_6.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_09_RIGHT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_09_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_02A_LEFT
+		{
+			Compression PCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_02A_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack UZI_REPORT_A_L
+		{
+			Compression PCM
+			Headroom 502
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\UZI_REPORT_A_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_ASSAULT_CHAMBER_PRT1
+		{
+			Compression PCM
+			Headroom 37
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_ASSAULT_CHAMBER_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLATOV_THROW_WHOOSH_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLATOV_THROW_WHOOSH_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_LAV_04.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_LAV_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_01.L
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_SAFETY
+		{
+			Compression PCM
+			Headroom -137
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_SAFETY.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BPW_SHARPS45_MID_COLORED_06
+		{
+			Compression PCM
+			Headroom -108
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BPW_SHARPS45_MID_COLORED_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_12
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_04_A
+		{
+			Compression PCM
+			Headroom -89
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_04_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_09_LEFT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_09_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_15_R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_15_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNPR_M82_THUD_PUNCHY_A
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNPR_M82_THUD_PUNCHY_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_DIST_04.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_DIST_04.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_B02
+		{
+			Compression PCM
+			Headroom -111
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_B02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_INSERTCART_B_PRT2
+		{
+			Compression PCM
+			Headroom 1022
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_INSERTCART_B_PRT2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_LRG_01
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_LRG_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_08A_LEFT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_08A_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_04
+		{
+			Compression PCM
+			Headroom -60
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_01
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_01.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_ASSAULT_NPC_RPRT
+		{
+			Compression PCM
+			Headroom -90
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_ASSAULT_NPC_RPRT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SILENCED_PLYR_WIDE_01.L
+		{
+			Compression PCM
+			Headroom -16
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SILENCED_PLYR_WIDE_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF2_SVK_03
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF2_SVK_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_FIRST.L
+		{
+			Compression PCM
+			Headroom -105
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_FIRST.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_04
+		{
+			Compression PCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_01_RIGHT
+		{
+			Compression PCM
+			Headroom -192
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_01_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_MID_VERB_NPC_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_MID_VERB_NPC_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_LEATHER_CREAK_01
+		{
+			Compression PCM
+			Headroom 444
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_LEATHER_CREAK_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PARACHUTE_FLAP_LOOP_A
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PARACHUTE_FLAP_LOOP_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_PICKUP_1
+		{
+			Compression PCM
+			Headroom 824
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_PICKUP_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_MINIGUN_LP_OFF.L
+		{
+			Compression PCM
+			Headroom 288
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_MINIGUN_LP_OFF.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_M26_ACTION_PRT1_VERB
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_M26_ACTION_PRT1_VERB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_08
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_THUD_02
+		{
+			Compression PCM
+			Headroom 499
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_THUD_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_4
+		{
+			Compression PCM
+			Headroom -30
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_3.R
+		{
+			Compression PCM
+			Headroom -12
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_3.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_WIDE_03.L
+		{
+			Compression PCM
+			Headroom 21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_WIDE_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FIRE_EXTING_START
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FIRE_EXTING_START.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_RECHARGE_START
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_RECHARGE_START.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_FAR_COLORED_NPC_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_FAR_COLORED_NPC_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_04_B
+		{
+			Compression PCM
+			Headroom 349
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_04_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PARACHUTE_OPEN_03
+		{
+			Compression PCM
+			Headroom -193
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PARACHUTE_OPEN_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF2_SVK_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF2_SVK_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SILENCED_PLYR_WIDE_04.L
+		{
+			Compression PCM
+			Headroom 1
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SILENCED_PLYR_WIDE_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_OUT_05
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_OUT_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_02_B
+		{
+			Compression PCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_02_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ROCKET_GRENADE_FIRE_R
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ROCKET_GRENADE_FIRE_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_SCAR_SAFETY
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_SCAR_SAFETY.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PARACHUTE_OPEN_01
+		{
+			Compression PCM
+			Headroom -173
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PARACHUTE_OPEN_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_00_FIRST.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_00_FIRST.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_TANK_FIRE_NPC_02
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_TANK_FIRE_NPC_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SILENCED_PLYR_RPRT.L
+		{
+			Compression PCM
+			Headroom 1525
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SILENCED_PLYR_RPRT.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_HANDLING_2
+		{
+			Compression PCM
+			Headroom 178
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_HANDLING_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_10
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_1
+		{
+			Compression PCM
+			Headroom 36
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PARACHUTE_FLAP_LOOP_B
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PARACHUTE_FLAP_LOOP_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_02A_RIGHT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_02A_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B03
+		{
+			Compression PCM
+			Headroom 187
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_08
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_8
+		{
+			Compression PCM
+			Headroom -103
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_8.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_A03
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_A03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_SCAR_CHAMBER_PRT1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_SCAR_CHAMBER_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF3_SVK_03
+		{
+			Compression PCM
+			Headroom -96
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF3_SVK_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_06
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_END.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_END.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_LAV_04
+		{
+			Compression PCM
+			Headroom -30
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_LAV_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_05
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_SWTNR_SHOTGUN_B2
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_SWTNR_SHOTGUN_B2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_1.L
+		{
+			Compression PCM
+			Headroom -140
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_1.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_ACTION_VER1_PRTA
+		{
+			Compression PCM
+			Headroom -112
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_ACTION_VER1_PRTA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_BRIGHT.R
+		{
+			Compression PCM
+			Headroom -151
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_BRIGHT.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_2_IMPACT_02
+		{
+			Compression PCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_2_IMPACT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_INSERTCART_A_PRT1
+		{
+			Compression PCM
+			Headroom 1833
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_INSERTCART_A_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SILENCED_PLYR_WIDE_02.L
+		{
+			Compression PCM
+			Headroom 21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SILENCED_PLYR_WIDE_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_RATTLE_01_B
+		{
+			Compression PCM
+			Headroom 979
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_RATTLE_01_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_END.L
+		{
+			Compression PCM
+			Headroom -167
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_END.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_SLOSH_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_SLOSH_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_2.R
+		{
+			Compression PCM
+			Headroom -3
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_2.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SNP_BOLT_CLOSE_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SNP_BOLT_CLOSE_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPLOOSH_2
+		{
+			Compression PCM
+			Headroom 836
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPLOOSH_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack REVOLVER_DRY_FIRE_02B
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\REVOLVER_DRY_FIRE_02B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_06
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNP_HEAVY_VERBVER2.L
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNP_HEAVY_VERBVER2.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_UZI9MM_CLIPOUT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_UZI9MM_CLIPOUT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_LAV_01
+		{
+			Compression PCM
+			Headroom -22
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_LAV_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack HGUN_SWTNR_URS_BEEF_R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\HGUN_SWTNR_URS_BEEF_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_06
+		{
+			Compression PCM
+			Headroom -155
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_01
+		{
+			Compression PCM
+			Headroom -181
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_SWTNR_SNPR_3
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_SWTNR_SNPR_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_RPG_DIST_LP2
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_RPG_DIST_LP2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_LAV_02
+		{
+			Compression PCM
+			Headroom 89
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_LAV_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_OUT_04
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_OUT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_04.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_CHAMBER_PRT2_VERA
+		{
+			Compression PCM
+			Headroom 150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_CHAMBER_PRT2_VERA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_01_C
+		{
+			Compression PCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_01_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_DESERTEAGLE_CLIPOUT_PRT_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_DESERTEAGLE_CLIPOUT_PRT_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_ASSAULT_INDOOR_VER2_LEFT
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_ASSAULT_INDOOR_VER2_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_01
+		{
+			Compression PCM
+			Headroom -34
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_FAR_50CAL_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_FAR_50CAL_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_18_R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_18_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_ASSAULT_CHAMBER_PRT2_VERA
+		{
+			Compression PCM
+			Headroom -120
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_ASSAULT_CHAMBER_PRT2_VERA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_12
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_CLIPIN_PRT_1
+		{
+			Compression PCM
+			Headroom 1565
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_CLIPIN_PRT_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SUB_SWEETNER_3
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SUB_SWEETNER_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_1_B
+		{
+			Compression PCM
+			Headroom 26
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_1_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_CHAMBER_PRT1
+		{
+			Compression PCM
+			Headroom 94
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_CHAMBER_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_06
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SILENCED_EQ_04.L
+		{
+			Compression PCM
+			Headroom -190
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SILENCED_EQ_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_RUN_1
+		{
+			Compression PCM
+			Headroom 918
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_RUN_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_BOLT_INSERTBULLET_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_BOLT_INSERTBULLET_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_FAR_COLORED_NPC_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_FAR_COLORED_NPC_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_01_D
+		{
+			Compression PCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_01_D.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_08A_RIGHT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_08A_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_SUB_SWEETNER_3
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_SUB_SWEETNER_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B02
+		{
+			Compression PCM
+			Headroom -24
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_A02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_A02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_12
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_12.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_PISTOL_MID_1
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_PISTOL_MID_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_MID_MIC1_COLOR1_04
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_MID_MIC1_COLOR1_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_05
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF3_SVK_01
+		{
+			Compression PCM
+			Headroom -144
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF3_SVK_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF2_SVK_04
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF2_SVK_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_IN_01
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_IN_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_B01
+		{
+			Compression PCM
+			Headroom 343
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_B01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_07
+		{
+			Compression PCM
+			Headroom -90
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_A04
+		{
+			Compression PCM
+			Headroom -184
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_A04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_DRY_FIRE_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_DRY_FIRE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_13_R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_13_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_CLIPIN_PRT_3
+		{
+			Compression PCM
+			Headroom 977
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_CLIPIN_PRT_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_3_C
+		{
+			Compression PCM
+			Headroom 516
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_3_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_IN_05
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_IN_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_HUGE_01_RIGHT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_HUGE_01_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPLOOSH_4
+		{
+			Compression PCM
+			Headroom 657
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPLOOSH_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_DIST_02.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_DIST_02.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_PISTOL_FAR_2
+		{
+			Compression PCM
+			Headroom 127
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_PISTOL_FAR_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_INSERTCART_A_PRT2
+		{
+			Compression PCM
+			Headroom 1216
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_INSERTCART_A_PRT2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_SUB_SWEETNER
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_SUB_SWEETNER.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_RPRT.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_RPRT.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_2_IMPACT_09
+		{
+			Compression PCM
+			Headroom -128
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_2_IMPACT_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_MID_MIC3_COLOR1_00_FIRST
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_MID_MIC3_COLOR1_00_FIRST.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_DESERTEAGLE_CHAMBER_PRT2_VERB
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_DESERTEAGLE_CHAMBER_PRT2_VERB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_BOOM.R
+		{
+			Compression PCM
+			Headroom -116
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_BOOM.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_FOLEY_SWTNR_BIG_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_FOLEY_SWTNR_BIG_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_LAV_03
+		{
+			Compression PCM
+			Headroom -12
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_LAV_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_SWTNR_SNPR_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_SWTNR_SNPR_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_LAV_04
+		{
+			Compression PCM
+			Headroom -1
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_LAV_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_OUT_02
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_OUT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_HANDLING_6
+		{
+			Compression PCM
+			Headroom 75
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_HANDLING_6.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_DRYFIRE_VER2
+		{
+			Compression PCM
+			Headroom -4
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_DRYFIRE_VER2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_13_L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_13_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF3_SVK_04
+		{
+			Compression PCM
+			Headroom -95
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF3_SVK_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FIRE_EXTING_LP2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FIRE_EXTING_LP2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHTGN_MOSS_CHINK
+		{
+			Compression PCM
+			Headroom 390
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHTGN_MOSS_CHINK.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_MID_MIC3_COLOR1_01
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_MID_MIC3_COLOR1_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF4_SVK_04
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF4_SVK_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RIFLE_DRY_FIRE_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RIFLE_DRY_FIRE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_17_R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_17_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_04_D
+		{
+			Compression PCM
+			Headroom 1361
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_04_D.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_FAR_MIC2_COLOR1_02
+		{
+			Compression PCM
+			Headroom -116
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_FAR_MIC2_COLOR1_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_14
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_14.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_PUNCH_02
+		{
+			Compression PCM
+			Headroom 119
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_PUNCH_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_16_L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_16_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_03_C
+		{
+			Compression PCM
+			Headroom -98
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_03_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_14
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_14.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_SUB_SWEETNER_2
+		{
+			Compression PCM
+			Headroom -125
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_SUB_SWEETNER_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF2_SVK_02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF2_SVK_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_A03
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_A03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNP_MID_1_EQ
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNP_MID_1_EQ.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BPW_SHARPS45_MID_COLORED_05
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BPW_SHARPS45_MID_COLORED_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF4_SVK_02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF4_SVK_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_2_IMPACT_06
+		{
+			Compression PCM
+			Headroom -70
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_2_IMPACT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_BOLT_INSERTBULLET_FINISH
+		{
+			Compression PCM
+			Headroom -169
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_BOLT_INSERTBULLET_FINISH.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_BELT_4
+		{
+			Compression PCM
+			Headroom 1060
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_BELT_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BUBBLE_LOOP_02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BUBBLE_LOOP_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_10
+		{
+			Compression PCM
+			Headroom 122
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_WALK_2
+		{
+			Compression PCM
+			Headroom 1838
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_WALK_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_RUN_4
+		{
+			Compression PCM
+			Headroom 861
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_RUN_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_2_B
+		{
+			Compression PCM
+			Headroom 124
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_2_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_CHARGE_01
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_CHARGE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_04.L
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLATOV_FUSE_IGNITE_01
+		{
+			Compression PCM
+			Headroom -38
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLATOV_FUSE_IGNITE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_HK45C_CHAMBER_PRT1
+		{
+			Compression PCM
+			Headroom -167
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_HK45C_CHAMBER_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_PISTOL_SHOT.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_PISTOL_SHOT.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_11
+		{
+			Compression PCM
+			Headroom 87
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RPG_ROCKET_INSERT_VERA_EQ
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RPG_ROCKET_INSERT_VERA_EQ.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPLOOSH_6
+		{
+			Compression PCM
+			Headroom 990
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPLOOSH_6.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_DESERTEAGLE_CLIPOUT_PRT_1
+		{
+			Compression PCM
+			Headroom -189
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_DESERTEAGLE_CLIPOUT_PRT_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_ASSAULT_INDOOR_VER2_RIGHT
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_ASSAULT_INDOOR_VER2_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SHT_SUPPRESSED_SHOT.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SHT_SUPPRESSED_SHOT.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_SCAR_CLIPIN_END
+		{
+			Compression PCM
+			Headroom 2237
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_SCAR_CLIPIN_END.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_HEAT_REPORT_SERIESC_1
+		{
+			Compression PCM
+			Headroom -55
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_HEAT_REPORT_SERIESC_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_14
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_14.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_05
+		{
+			Compression PCM
+			Headroom -153
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_09
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_A04
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_A04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_5
+		{
+			Compression PCM
+			Headroom 428
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_PUNCH_01
+		{
+			Compression PCM
+			Headroom 141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_PUNCH_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_WALK_5
+		{
+			Compression PCM
+			Headroom 2119
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_WALK_5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_09
+		{
+			Compression PCM
+			Headroom 384
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_CLOSE
+		{
+			Compression PCM
+			Headroom 7
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_CLOSE.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_MID_COLOR1_04
+		{
+			Compression PCM
+			Headroom -100
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_MID_COLOR1_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_IN_03
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_IN_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_RAILGUN2.L
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_RAILGUN2.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_B04
+		{
+			Compression PCM
+			Headroom 609
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_B04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_INDOOR_2_RIGHT
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_INDOOR_2_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_SLOSH_4
+		{
+			Compression PCM
+			Headroom -176
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_SLOSH_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_03
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_01
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SHT_DRYFIRE_COPY
+		{
+			Compression PCM
+			Headroom -174
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SHT_DRYFIRE_COPY.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_3006_SHELL_03_C
+		{
+			Compression PCM
+			Headroom 255
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_3006_SHELL_03_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack EXHALE
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\EXHALE.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack UZI_REPORT_A_R
+		{
+			Compression PCM
+			Headroom 394
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\UZI_REPORT_A_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SNP_BOLT_OPEN_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SNP_BOLT_OPEN_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_TONAL.R
+		{
+			Compression PCM
+			Headroom -103
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_TONAL.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_04
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_HUG_02
+		{
+			Compression PCM
+			Headroom -179
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_HUG_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_WIDE_04.L
+		{
+			Compression PCM
+			Headroom 18
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_WIDE_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_RECHARGE_END
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_RECHARGE_END.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_03_RIGHT
+		{
+			Compression PCM
+			Headroom -193
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_03_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_HANDLING_4
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_HANDLING_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_HEAT_REPORT_SERIESD_2
+		{
+			Compression PCM
+			Headroom 590
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_HEAT_REPORT_SERIESD_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNP_MID_2_EQ
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNP_MID_2_EQ.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_GUN_STUN1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_GUN_STUN1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_2_A
+		{
+			Compression PCM
+			Headroom -59
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_2_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_02.L
+		{
+			Compression PCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_DROP_1
+		{
+			Compression PCM
+			Headroom 562
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_DROP_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_14_L
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_14_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_4.L
+		{
+			Compression PCM
+			Headroom -96
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_4.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLATOV_THROW_SLOSH_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLATOV_THROW_SLOSH_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_02.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SILENCED_EQ_05.L
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SILENCED_EQ_05.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_FOLEY_HANDLING_1
+		{
+			Compression PCM
+			Headroom 834
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_FOLEY_HANDLING_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_LRG_02
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_LRG_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_DIST_03.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_DIST_03.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_INSERTCART_B_PRT1
+		{
+			Compression PCM
+			Headroom 1835
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_INSERTCART_B_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_3
+		{
+			Compression PCM
+			Headroom 261
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_ASSAULT_NPC_RPRT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_ASSAULT_NPC_RPRT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_03
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_MED_01
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_MED_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_10_R
+		{
+			Compression PCM
+			Headroom -197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_10_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_10
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_10.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNPR_M82_CHINK
+		{
+			Compression PCM
+			Headroom 652
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNPR_M82_CHINK.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_09
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack POURING_FUEL_B
+		{
+			Compression PCM
+			Headroom 1461
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\POURING_FUEL_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_OUT_06
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_OUT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNP_MID_BIG_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNP_MID_BIG_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_03
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_FAR_MIC2_COLOR1_00_FIRST
+		{
+			Compression PCM
+			Headroom -104
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_FAR_MIC2_COLOR1_00_FIRST.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_RPG_DIST_LP1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_RPG_DIST_LP1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SILENCED_PLYR_WIDE_05.L
+		{
+			Compression PCM
+			Headroom -29
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SILENCED_PLYR_WIDE_05.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_PUNCH_00_FIRST
+		{
+			Compression PCM
+			Headroom 46
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_PUNCH_00_FIRST.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_03_LEFT
+		{
+			Compression PCM
+			Headroom -35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_03_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_A01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_A01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_WALK_4
+		{
+			Compression PCM
+			Headroom 2070
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_WALK_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_TANK_FIRE_NPC_01
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_TANK_FIRE_NPC_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_04
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_A06
+		{
+			Compression PCM
+			Headroom -158
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_A06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_03_C
+		{
+			Compression PCM
+			Headroom 1155
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_03_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_03
+		{
+			Compression PCM
+			Headroom -181
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_07
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_LAV_01.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_LAV_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SHT_SUPPRESSED_GAS.L
+		{
+			Compression PCM
+			Headroom -102
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SHT_SUPPRESSED_GAS.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_MID_COLOR1_02
+		{
+			Compression PCM
+			Headroom -121
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_MID_COLOR1_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_06_LEFT
+		{
+			Compression PCM
+			Headroom -159
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_06_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B06
+		{
+			Compression PCM
+			Headroom 1016
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_PUNCH_03
+		{
+			Compression PCM
+			Headroom 118
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_PUNCH_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_06_RIGHT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_06_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_SLOSH_2
+		{
+			Compression PCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_SLOSH_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_RPRT.L
+		{
+			Compression PCM
+			Headroom -8
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_RPRT.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF3_SVK_02
+		{
+			Compression PCM
+			Headroom -108
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF3_SVK_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_LAV_00_FIRST
+		{
+			Compression PCM
+			Headroom -55
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_LAV_00_FIRST.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_2.L
+		{
+			Compression PCM
+			Headroom -35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_2.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_07_A
+		{
+			Compression PCM
+			Headroom -87
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_07_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_FAR_MIC2_COLOR1_01
+		{
+			Compression PCM
+			Headroom -125
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_FAR_MIC2_COLOR1_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_PUMP_ACTION_VER1_PRTB
+		{
+			Compression PCM
+			Headroom -35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_PUMP_ACTION_VER1_PRTB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_05.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_05.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SILENCED_EQ_01.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SILENCED_EQ_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_1_C
+		{
+			Compression PCM
+			Headroom 171
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_1_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_BELT_7
+		{
+			Compression PCM
+			Headroom 244
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_BELT_7.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_GRENADE_THUNK
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_GRENADE_THUNK.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_01.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_12_L
+		{
+			Compression PCM
+			Headroom -192
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_12_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_FOLEY_HANDLING_2
+		{
+			Compression PCM
+			Headroom -159
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_FOLEY_HANDLING_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack CHARGE
+		{
+			Compression PCM
+			Headroom -177
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\CHARGE.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_STOP_2
+		{
+			Compression PCM
+			Headroom 1270
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_STOP_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_15_L
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_15_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_09
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_09.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_04
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B07
+		{
+			Compression PCM
+			Headroom 1363
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_3.L
+		{
+			Compression PCM
+			Headroom -188
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_3.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_FAR_MIC1_COLOR1_01
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_FAR_MIC1_COLOR1_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RPG_DRY_FIRE_01
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RPG_DRY_FIRE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_MID_COLOR1_01
+		{
+			Compression PCM
+			Headroom -148
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_MID_COLOR1_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLATOV_HOLSTER_DRAW_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLATOV_HOLSTER_DRAW_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_LRG_03
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_LRG_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_02
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHUTTER_RELEASE
+		{
+			Compression PCM
+			Headroom 66
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHUTTER_RELEASE.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_B03
+		{
+			Compression PCM
+			Headroom 52
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_B03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_THUD_03
+		{
+			Compression PCM
+			Headroom 20
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_THUD_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_WIDE_00_FIRST.L
+		{
+			Compression PCM
+			Headroom 8
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_WIDE_00_FIRST.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_DIST_01.R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_DIST_01.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_LEATHER_CREAK_02
+		{
+			Compression PCM
+			Headroom -166
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_LEATHER_CREAK_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_07
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_07.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_04A_RIGHT
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_04A_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_RAILGUN.L
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_RAILGUN.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_FAR_MIC4_RPRT_02
+		{
+			Compression PCM
+			Headroom 362
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_FAR_MIC4_RPRT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B04
+		{
+			Compression PCM
+			Headroom -47
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_DRY_FIRE_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_DRY_FIRE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_HUG_01
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_HUG_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PARACHUTE_OPEN_02
+		{
+			Compression PCM
+			Headroom -49
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PARACHUTE_OPEN_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FIRE_EXTING_LP3
+		{
+			Compression PCM
+			Headroom -90
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FIRE_EXTING_LP3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_9
+		{
+			Compression PCM
+			Headroom 141
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_9.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_END.R
+		{
+			Compression PCM
+			Headroom 14
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_END.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_PUNCH_05
+		{
+			Compression PCM
+			Headroom 108
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_PUNCH_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_TANK_FIRE_NPC_03
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_TANK_FIRE_NPC_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_ASSAULT_CHAMBER_PRT2_VERB
+		{
+			Compression PCM
+			Headroom -170
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_ASSAULT_CHAMBER_PRT2_VERB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_CHAMBER_PRT2_VERB
+		{
+			Compression PCM
+			Headroom 150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_CHAMBER_PRT2_VERB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_03_A
+		{
+			Compression PCM
+			Headroom -88
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_03_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_16
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_16.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_FAR_50CAL_1
+		{
+			Compression PCM
+			Headroom -5
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_FAR_50CAL_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_3_A
+		{
+			Compression PCM
+			Headroom -117
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_3_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_MED_03
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_MED_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_M26_ACTION_PRT2_VERA
+		{
+			Compression PCM
+			Headroom -181
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_M26_ACTION_PRT2_VERA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNPR_M82_SHOT_B_L
+		{
+			Compression PCM
+			Headroom -1
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNPR_M82_SHOT_B_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_SCAR_CHAMBER_PRT2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_SCAR_CHAMBER_PRT2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_2
+		{
+			Compression PCM
+			Headroom 79
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_03.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_05
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack INHALE
+		{
+			Compression PCM
+			Headroom -163
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\INHALE.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_SWTNR_SHOTGUN_B1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_SWTNR_SHOTGUN_B1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_B01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_B01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack IMPULSE_48K
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\IMPULSE_48K.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_BREAK_01
+		{
+			Compression PCM
+			Headroom 21
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_BREAK_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_IN_02
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_IN_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_2_IMPACT_01
+		{
+			Compression PCM
+			Headroom -152
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_2_IMPACT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GRENADE_LAUNCHER_DRY_FIRE_01
+		{
+			Compression PCM
+			Headroom -86
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GRENADE_LAUNCHER_DRY_FIRE_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_50CAL_SHELL_05_C
+		{
+			Compression PCM
+			Headroom 684
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_50CAL_SHELL_05_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_SCAR_CLIPIN
+		{
+			Compression PCM
+			Headroom -194
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_SCAR_CLIPIN.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FIRE_EXTING_LP1
+		{
+			Compression PCM
+			Headroom -104
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FIRE_EXTING_LP1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_02
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_FIRST.R
+		{
+			Compression PCM
+			Headroom -70
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_FIRST.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_IN_06
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_IN_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_SUB_SWEETNER_1
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_SUB_SWEETNER_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_FOLEY_HANDLING_4
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_FOLEY_HANDLING_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_FAR_MIC1_COLOR1_03
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_FAR_MIC1_COLOR1_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_LAV_00_FIRST.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_LAV_00_FIRST.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_GRENADE_LNCHR_C.L
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_GRENADE_LNCHR_C.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_01
+		{
+			Compression PCM
+			Headroom 254
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_MID_MIC1_COLOR1_03
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_MID_MIC1_COLOR1_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_DESERTEAGLE_CHAMBER_PRT2_VERA
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_DESERTEAGLE_CHAMBER_PRT2_VERA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_3_B
+		{
+			Compression PCM
+			Headroom 69
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_3_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_SWTNR_D
+		{
+			Compression PCM
+			Headroom 818
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_SWTNR_D.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPLOOSH_1
+		{
+			Compression PCM
+			Headroom 749
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPLOOSH_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_11
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_WIDE_05.L
+		{
+			Compression PCM
+			Headroom 33
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_WIDE_05.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_MID_VERB_NPC_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_MID_VERB_NPC_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_LAV_02.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_LAV_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_PLYR_VER1_LAV_02
+		{
+			Compression PCM
+			Headroom -38
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_PLYR_VER1_LAV_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_A02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_A02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_THUD_01
+		{
+			Compression PCM
+			Headroom 10
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_THUD_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_14_R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_14_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_RATTLE_01_C
+		{
+			Compression PCM
+			Headroom 819
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_RATTLE_01_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_12_R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_12_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PARACHUTE_SWEETENER
+		{
+			Compression PCM
+			Headroom -158
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PARACHUTE_SWEETENER.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_WIDE_02.L
+		{
+			Compression PCM
+			Headroom -8
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_WIDE_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_CLIPOUT
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_CLIPOUT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_13
+		{
+			Compression PCM
+			Headroom -168
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_13.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_MINIGUN_LP.L
+		{
+			Compression PCM
+			Headroom 492
+			LoopPoint 23309
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_MINIGUN_LP.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_02
+		{
+			Compression PCM
+			Headroom -147
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_17_L
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_17_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_OUT_03
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_OUT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_06
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_06.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_SWTNR_SNPR_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_SWTNR_SNPR_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPL_RPG_DIST_PLAYER.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPL_RPG_DIST_PLAYER.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_COMBAT_LAV_01
+		{
+			Compression PCM
+			Headroom -12
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_COMBAT_LAV_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_HUGE_01_LEFT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_HUGE_01_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_01_B
+		{
+			Compression PCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_01_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_FAR_MIC1_COLOR1_05
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_FAR_MIC1_COLOR1_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_18_L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_18_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RAILGUN_CLICKS
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RAILGUN_CLICKS.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_FAR_MIC2_COLOR1_03
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_FAR_MIC2_COLOR1_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_MID_MIC3_COLOR1_03
+		{
+			Compression PCM
+			Headroom -176
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_MID_MIC3_COLOR1_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_LAV_01.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_LAV_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_MID_MIC3_COLOR1_02
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_MID_MIC3_COLOR1_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_CLIPIN_PRT_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_CLIPIN_PRT_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF4_SVK_03
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF4_SVK_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SILENCED_EQ_02.L
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SILENCED_EQ_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack AK_IMPACT_11
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\AK_IMPACT_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_BELT_3
+		{
+			Compression PCM
+			Headroom 701
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_BELT_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_303_SHELL_03_C
+		{
+			Compression PCM
+			Headroom 349
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_303_SHELL_03_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_2_IMPACT_15
+		{
+			Compression PCM
+			Headroom -96
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_2_IMPACT_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNP_MID_BIG_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNP_MID_BIG_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_04A_LEFT
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_04A_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_15
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_11_L
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_11_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SUB_SWEETNER_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SUB_SWEETNER_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_16_R
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_16_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_01_LEFT
+		{
+			Compression PCM
+			Headroom -192
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_01_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_FAR_MIC1_COLOR1_04
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_FAR_MIC1_COLOR1_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_M4_CHAMBER_PRT2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_M4_CHAMBER_PRT2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_08
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SMG_PLYR_WIDE_01.L
+		{
+			Compression PCM
+			Headroom 3
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SMG_PLYR_WIDE_01.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_WALK_1
+		{
+			Compression PCM
+			Headroom 1814
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_WALK_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ROCKET_GRENADE_FIRE_L
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ROCKET_GRENADE_FIRE_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_RUN_3
+		{
+			Compression PCM
+			Headroom 778
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_RUN_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GLUG_7
+		{
+			Compression PCM
+			Headroom -116
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GLUG_7.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_M1911_CLIPIN
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_M1911_CLIPIN.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_RUN_2
+		{
+			Compression PCM
+			Headroom 918
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_RUN_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_FAR_50CAL_3
+		{
+			Compression PCM
+			Headroom -35
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_FAR_50CAL_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_08
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_MED_02
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_MED_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_PISTOL_MID_2
+		{
+			Compression PCM
+			Headroom -127
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_PISTOL_MID_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_GEAR_RATTLE_02_C
+		{
+			Compression PCM
+			Headroom 1336
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_GEAR_RATTLE_02_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MP5_SAFETY_01
+		{
+			Compression PCM
+			Headroom -176
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MP5_SAFETY_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_10_L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_10_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_FAR_MIC2_COLOR1_04
+		{
+			Compression PCM
+			Headroom -66
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_FAR_MIC2_COLOR1_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_08
+		{
+			Compression PCM
+			Headroom 50
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_08.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERC_LAV_03.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERC_LAV_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_LAV_04.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_LAV_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHOTGUN_2_IMPACT_03
+		{
+			Compression PCM
+			Headroom -172
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHOTGUN_2_IMPACT_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack RFL_INTERIOR_86MS_1.R
+		{
+			Compression PCM
+			Headroom -65
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\RFL_INTERIOR_86MS_1.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_CHAMBER_PRT1
+		{
+			Compression PCM
+			Headroom 150
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_CHAMBER_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack IMPULSE_44K1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\IMPULSE_44K1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLASTIC_SHELL_SLOWMO_A01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PLASTIC_SHELL_SLOWMO_A01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_07_RIGHT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_07_RIGHT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LAZER_04
+		{
+			Compression PCM
+			Headroom -181
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LAZER_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SILENCED_PLYR_WIDE_03.L
+		{
+			Compression PCM
+			Headroom -149
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SILENCED_PLYR_WIDE_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_1_A
+		{
+			Compression PCM
+			Headroom -44
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_1_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_04.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_04.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SPLOOSH_3
+		{
+			Compression PCM
+			Headroom 1333
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SPLOOSH_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_FAR_COLORED_NPC_3
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_FAR_COLORED_NPC_3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_IMPACT_15
+		{
+			Compression PCM
+			Headroom -157
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_IMPACT_15.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_ASSAULT_VER2.R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_ASSAULT_VER2.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_HEAT_REPORT_SERIESC_2
+		{
+			Compression PCM
+			Headroom 197
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_HEAT_REPORT_SERIESC_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_03.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNPR_M82_SHOT_A_L
+		{
+			Compression PCM
+			Headroom -1
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNPR_M82_SHOT_A_L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_INDOOR_2_LEFT
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_INDOOR_2_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_PISTOL_FAR_1
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_PISTOL_FAR_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_IN_04
+		{
+			Compression PCM
+			Headroom -180
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_IN_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SNP_BOLT_CLOSE_2
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SNP_BOLT_CLOSE_2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_PLASTIC_06_B
+		{
+			Compression PCM
+			Headroom 373
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_PLASTIC_06_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_LAV_03.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_LAV_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SVK_SHELL_WOOD_BIG_2_C
+		{
+			Compression PCM
+			Headroom -30
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SVK_SHELL_WOOD_BIG_2_C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack METAL_SHELL_SLOWMO_A05
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\METAL_SHELL_SLOWMO_A05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_COMBAT_SHOT_VER3.R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_COMBAT_SHOT_VER3.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_SLOW_MO_OUT_01
+		{
+			Compression PCM
+			Headroom -105
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_SLOW_MO_OUT_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLET_BY_UNDER_WATER
+		{
+			Compression PCM
+			Headroom -101
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLET_BY_UNDER_WATER.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SMG_SUB_SWEETNER_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SMG_SUB_SWEETNER_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SNP_BOLT_OPEN_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SNP_BOLT_OPEN_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_07_LEFT
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_07_LEFT.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLATOV_THROW_SLOSH_02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLATOV_THROW_SLOSH_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_50BMG_HANDLING_7
+		{
+			Compression PCM
+			Headroom 18
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_50BMG_HANDLING_7.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GUN_DSTNT_SWTNR_SHOTGUN_B3
+		{
+			Compression PCM
+			Headroom -70
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GUN_DSTNT_SWTNR_SHOTGUN_B3.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_DESERTEAGLE_CHAMBER_PRT1
+		{
+			Compression PCM
+			Headroom -19
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_DESERTEAGLE_CHAMBER_PRT1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SHT_BULLPUP_VER2.R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SHT_BULLPUP_VER2.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PTL_50CAL_SHOT_VER4.R
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PTL_50CAL_SHOT_VER4.R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PISTOL_IMPACT_05
+		{
+			Compression PCM
+			Headroom 48
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\PISTOL_IMPACT_05.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack FUEL_CAN_STOP_4
+		{
+			Compression PCM
+			Headroom 1234
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\FUEL_CAN_STOP_4.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MOLOTOV_SLOSH_5
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MOLOTOV_SLOSH_5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack HGUN_ASSKICK_EL8
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\HGUN_ASSKICK_EL8.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack ABSEIL_LEATHER_CREAK_03
+		{
+			Compression PCM
+			Headroom 723
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\ABSEIL_LEATHER_CREAK_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SILENCED_EQ_01_END.L
+		{
+			Compression PCM
+			Headroom 1663
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SILENCED_EQ_01_END.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_PLYR_VERB_02.L
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_PLYR_VERB_02.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_03
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_03.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack HGUN_MECH_OVERLAY_A_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\HGUN_MECH_OVERLAY_A_1.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x7A495DB3
+					ParameterHash 0x43B6F392
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_SHOT_11_R
+		{
+			Compression PCM
+			Headroom -196
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_SHOT_11_R.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack BULLETBY_SVK_11
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\BULLETBY_SVK_11.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_SCARL_MID_MIC3_COLOR1_04
+		{
+			Compression PCM
+			Headroom -156
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_SCARL_MID_MIC3_COLOR1_04.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SLOW_MO_WEAPON_ANIM_13
+		{
+			Compression PCM
+			Headroom -200
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SLOW_MO_WEAPON_ANIM_13.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack SNPR_M82_REPORT_A_R
+		{
+			Compression PCM
+			Headroom 628
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\SNPR_M82_REPORT_A_R.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x7A495DB3
+					ParameterHash 0x430C0000
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack GTA5_SILENCED_EQ_03.L
+		{
+			Compression PCM
+			Headroom -199
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\GTA5_SILENCED_EQ_03.L.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_MID_MIC1_COLOR1_02
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_MID_MIC1_COLOR1_02.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack LMG_FOLEY_SWTNR_MED_1
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\LMG_FOLEY_SWTNR_MED_1.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack MGN_AK47_OFF4_SVK_01
+		{
+			Compression PCM
+			Headroom -201
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weapons\MGN_AK47_OFF4_SVK_01.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}
